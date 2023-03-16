@@ -1,3 +1,7 @@
+### This could be a lot stronger if the code could import Google-Form data from student choices to read in the data, instead of hard coding it. 
+### The code is created to make a mosaic plot of student social media usage for class. I use it along with their own created plots to demenstrate the different
+### ways barplots can be constructed. 
+
 import matplotlib.pyplot as plt
 from statsmodels.graphics.mosaicplot import mosaic
 
